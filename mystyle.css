@@ -8,18 +8,18 @@
         }
         
         #headercolor {
-            color: brown;
+            color: rgb(255, 0, 0);
         }  
 
         #nav-table { 
-            width: 1024px;
+            width: 1275px;
         }
 
         #nav-td {
-            width: 200px; 
+            width: 300px;
             text-align:center
         }
 
         #background {
-            background-image: url('clownvomit.jpg');
+            background-image: url('mybackground.png');
         }
